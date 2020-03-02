@@ -1,3 +1,10 @@
+
+covid.py was added to get csv data both of China and overseas countries.
+
+Just run py.covid.py then three csv files will be written in desktop.
+
+-----------------------------------------------------------------------------
+
 # 2019新型冠状病毒疫情时间序列数据仓库
 
 简体中文 | [English](README.en.md)
