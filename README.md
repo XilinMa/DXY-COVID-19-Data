@@ -1,7 +1,7 @@
 
-covid.py was added to get csv data both of China and overseas countries.
+## covid.py was added to get covid data in csv format of both China and overseas countries.
 
-Just run py.covid.py then three csv files will be written in desktop.
+## Just run py.covid.py then three csv files will be written in desktop.
 
 -----------------------------------------------------------------------------
 
